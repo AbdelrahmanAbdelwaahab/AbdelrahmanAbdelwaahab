@@ -37,8 +37,7 @@ Amazon Web Services (AWS) Certified Cloud Practitioner (expected December 2023)
   - Verified that the website is responsive on all screen sizes, providing a consistent and user-friendly experience. <br/>
   
 
-
 <h2> 🤳 Connect with me:</h2>
-https://bridg-it.org <br/>
+
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [linkedin]: https://www.linkedin.com/in/abdelrahman-abdelwahab/
