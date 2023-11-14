@@ -2,15 +2,15 @@
 
 <h2>👨‍💻 Cybersecurity & IT Experience:</h2>
 
-- <b>Penetration Testing Insights Blog Series: 	11/2023 - Present</b>
+- <b>Penetration Testing Insights Blog Series: 	11/2023 - Present</b> <br />
   https://bridg-it.org  <br />
   With the aims of: <br />
-- Following the penetration testing methodology described by NIST 800-115. <br/>
-- Demonstrating expertise in using Kali Linux VM on Oracle VirtualBox.<br/>
-- Utilising industry standard tools such as Nmap, Wireshark, Hydra, Nessus, WPScan and Metasploit.<br/>
-- Making automated scripts using Python for enhanced efficiency.<br/>
-- Using engaging language and analogies to make complex concepts accessible to a wide audience.<br/>
-- Following a professional style of reporting (https://github.com/AbdelrahmanAbdelwaahab/My-Reports).
+  - Following the penetration testing methodology described by NIST 800-115. <br/>
+  - Demonstrating expertise in using Kali Linux VM on Oracle VirtualBox.<br/>
+  - Utilising industry standard tools such as Nmap, Wireshark, Hydra, Nessus, WPScan and Metasploit.<br/>
+  - Making automated scripts using Python for enhanced efficiency.<br/>
+  - Using engaging language and analogies to make complex concepts accessible to a wide audience.<br/>
+  - Following a professional style of reporting (https://github.com/AbdelrahmanAbdelwaahab/My-Reports).
 
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
