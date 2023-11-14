@@ -39,5 +39,5 @@ Amazon Web Services (AWS) Certified Cloud Practitioner (expected December 2023)
 
 <h2> 🤳 Connect with me:</h2>
 
- https://www.linkedin.com/in/abdelrahman-abdelwahab/
+ https://www.linkedin.com/in/abdelrahman-abdelwahab/ <br />
  https://bridg-it.org/
