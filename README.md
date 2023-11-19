@@ -16,7 +16,6 @@ Amazon Web Services (AWS) Certified Cloud Practitioner (expected December 2023)
 
 - <b>BRIDG-IT WordPress Career insights personal blog: 	</b> <br />
   https://bridg-it.org  <br />
-  With the aims of: <br />
   - Utilising CRM WordPress to publish articles using a fictional language of writing resulting in simplified concepts for readers planning their career choices. <br/>
   - Composed an article covering web application security practices, such as cryptographic hashing, salting, SSL/HTTPS protocols, and dual-factor authentication.<br/>
   - Authored an article comparing web technology stacks, LAMP and MEAN.<br/>
