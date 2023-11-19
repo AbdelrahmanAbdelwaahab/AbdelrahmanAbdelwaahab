@@ -28,7 +28,7 @@ Amazon Web Services (AWS) Certified Cloud Practitioner (expected December 2023)
   - Enabled secure access to the AWS VM via VPC on Windows over SSH, using command-line and key pairs. <br/>
   - Actively practised ethical hacking on cloud infrastructure, leveraging platforms like flaws.cloud. <br/>
 
-- <b>User BRIDG-IT an attempt to close female underrepresentation in IT using a high fidelity prototype mobile application : </b> <br />
+- <b>BRIDG-IT an attempt to close female underrepresentation in IT using a high fidelity prototype mobile application : </b> <br />
   http://figma.bridg-it.org  <br />
   - Produced a high-fidelity mobile app prototype following the Design Sprint and Heuristic Evaluation industry usability standards.. <br/>
   - Leveraged Miro for sketching, and Figma for interactive prototyping of the  UI. <br/>
