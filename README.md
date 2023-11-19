@@ -2,7 +2,7 @@
 <h2>🌱 I’m currently learning:</h2>
 Amazon Web Services (AWS) Certified Cloud Practitioner (expected December 2023)
 
-<h2>👨‍💻 Cybersecurity & IT Experience:</h2>
+<h2>👨‍💻 Relevant Projects:</h2>
 
 - <b>Penetration Testing Insights Blog Series: 	</b> <br />
   https://bridg-it.org  <br />
