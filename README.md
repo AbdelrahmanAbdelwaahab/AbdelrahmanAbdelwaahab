@@ -14,7 +14,7 @@ Amazon Web Services (AWS) Certified Cloud Practitioner (expected December 2023)
   - Using engaging language and analogies to make complex concepts accessible to a wide audience.<br/>
   - Following a professional style of reporting (https://github.com/AbdelrahmanAbdelwaahab/My-Reports).
 
-    - <b>BRIDG-IT WordPress Career insights personal blog: 	</b> <br />
+- <b>BRIDG-IT WordPress Career insights personal blog: 	</b> <br />
   https://bridg-it.org  <br />
   With the aims of: <br />
   - Utilising CRM WordPress to publish articles using a fictional language of writing resulting in simplified concepts for readers planning their career choices. <br/>
