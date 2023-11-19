@@ -14,6 +14,14 @@ Amazon Web Services (AWS) Certified Cloud Practitioner (expected December 2023)
   - Using engaging language and analogies to make complex concepts accessible to a wide audience.<br/>
   - Following a professional style of reporting (https://github.com/AbdelrahmanAbdelwaahab/My-Reports).
 
+    - <b>BRIDG-IT WordPress Career insights personal blog: 	</b> <br />
+  https://bridg-it.org  <br />
+  With the aims of: <br />
+  - Utilising CRM WordPress to publish articles using a fictional language of writing resulting in simplified concepts for readers planning their career choices. <br/>
+  - Composed an article covering web application security practices, such as cryptographic hashing, salting, SSL/HTTPS protocols, and dual-factor authentication.<br/>
+  - Authored an article comparing web technology stacks, LAMP and MEAN.<br/>
+
+
 - <b>AWS Hacking Lab: </b> <br />
   - Created and managed AWS infrastructure, implementing Multi-Factor Authentication (MFA) for enhanced security. <br/>
   - Built a hacking lab in AWS, simulating an enterprise network with vulnerable machines using Virtual Private Cloud (VPC). <br/>
